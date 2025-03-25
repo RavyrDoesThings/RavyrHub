@@ -1,6 +1,6 @@
-l-- When you die, re-execute the script.
+-- When you die, re-execute the script.
 
-ocal Players = game:GetService("Players")
+local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
 local RunService = game:GetService("RunService")
 
